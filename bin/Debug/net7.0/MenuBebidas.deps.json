@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "MenuBebidas/1.0.0": {
+        "runtime": {
+          "MenuBebidas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MenuBebidas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
